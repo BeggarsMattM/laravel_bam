@@ -13,5 +13,5 @@
 
 Route::get('/', function()
 {
-	return "What the actual success?!";
+	return "What the actual change of text?!";
 });
